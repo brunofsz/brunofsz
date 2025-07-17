@@ -13,9 +13,9 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunofsz&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brunofsz&show_icons=true&custom_title=Minhas%20Estat%C3%ADsticas&theme=codeSTACKr&hide_border=false&order=2" height="165" alt="stats graph"  />
  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofsz&layout=compact&theme=radical" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofsz&layout=compact&custom_title=Minhas%20Linguagens&theme=codeSTACKr&hide_border=false&order=2"  height="170" alt="languages graph"  />
 </p>
 
 
