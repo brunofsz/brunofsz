@@ -10,6 +10,17 @@
   <a href="mailto:brunofrancisco.souza2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
+
+<h2>🙍 Sobre Mim</h2>
+   <p align="center">
+Sou estudante de Análise e Desenvolvimento de Sistemas na Fatec Arthur de Azevedo, apaixonado por tecnologia.
+<br>Atualmente foco no desenvolvimento front-end, mas gosto de explorar todas as áreas da programação e tecnologia. Meu objetivo é me tornar um desenvolvedor full stack.
+<br>
+  <br>
+  Fique à vontade para explorar meus repositórios e entrar em contato para conversarmos! 🚀
+      </p>
+
+
 ## 📈 Estatísticas
 
 <p align="center">
